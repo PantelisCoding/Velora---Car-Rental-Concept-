@@ -23,3 +23,6 @@ Copy the existing `car-2.png` through `car-10.png` assets from your original pro
 Mobile navigation, vehicle rendering, category filtering, sorting, location filtering, date validation, booking-enquiry dialog, email enquiry composition (once configured), FAQ accordions and responsive layouts.
 
 **This is a polished functional front-end concept, not a live booking/payment system.** Vehicle-location availability and prices are sample data and are not checked against a real inventory.
+<img width="1536" height="1024" alt="Premium Laptop Website Mockup" src="https://github.com/user-attachments/assets/53cb5840-faad-4fde-9619-2e05129d0eac" />
+<img width="1536" height="1024" alt="Laptop Booking Enquiry Showcase" src="https://github.com/user-attachments/assets/87077eac-0a8d-4d99-84e1-e93784bfbc04" />
+<img width="1536" height="1024" alt="Velora Homepage on a Laptop" src="https://github.com/user-attachments/assets/ecc1e381-7b81-406b-aada-fa177d3289dc" />
